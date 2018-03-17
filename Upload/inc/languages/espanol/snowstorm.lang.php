@@ -14,6 +14,6 @@
  * 
  */
 
-$l['snowstorm_show_question'] = 'Should the snowstorm be displayed?';
+$l['snowstorm_show_question'] = '¿Debería mostrarse la tormenta de nieve?';
 
 ?>

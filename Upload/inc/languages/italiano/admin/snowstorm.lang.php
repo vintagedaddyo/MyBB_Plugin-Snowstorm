@@ -17,7 +17,7 @@
 // snowstorm_plugin_info
 
 $l['snowstorm_Name'] = 'Snowstorm';
-$l['snowstorm_Desc'] = 'Let it snow!';
+$l['snowstorm_Desc'] = 'Lascia che nevichi!';
 $l['snowstorm_Web'] = 'http://community.mybb.com/user-6029.html';
 $l['snowstorm_Auth'] = 'Sebastian Wunderlich & updated by Vintagedaddyo';
 $l['snowstorm_AuthSite'] = 'http://community.mybb.com/user-6029.html';
